@@ -1,224 +1,224 @@
 {
-  "escolas": [
+  "schools": [
     {
-      "nome": {
-        "sigla": "ESTG",
-        "nome": "Escola Superior de Tecnologia e Gestão"
+      "name": {
+        "abbreviation": "ESTG",
+        "full_name": "Escola Superior de Tecnologia e Gestão"
       },
-      "cursos": [
+      "courses": [
         {
-          "nome": "Licenciatura em Informática",
-          "empresas": [
+          "name": "Licenciatura em Informática",
+          "companies": [
             {
-              "nome": "TechSolutions",
-              "coordenadas": {
+              "name": "TechSolutions",
+              "coordinates": {
                 "latitude": 41.5368,
                 "longitude": -8.6615
               },
               "email": "contact@techsolutions.com",
-              "telefone": "+351 123 456 789",
-              "vagas": 3
+              "phone": "+351 123 456 789",
+              "vacancies": 3
             },
             {
-              "nome": "DevHub",
-              "coordenadas": {
+              "name": "DevHub",
+              "coordinates": {
                 "latitude": 41.5457,
                 "longitude": -8.6223
               },
               "email": "info@devhub.com",
-              "telefone": "+351 987 654 321",
-              "vagas": 2
+              "phone": "+351 987 654 321",
+              "vacancies": 2
             }
           ]
         },
         {
-          "nome": "Licenciatura em Gestão",
-          "empresas": [
+          "name": "Licenciatura em Gestão",
+          "companies": [
             {
-              "nome": "Global Business Corp",
-              "coordenadas": {
+              "name": "Global Business Corp",
+              "coordinates": {
                 "latitude": 41.5303,
                 "longitude": -8.6612
               },
               "email": "hr@globalbusiness.com",
-              "telefone": "+351 234 567 890",
-              "vagas": 4
+              "phone": "+351 234 567 890",
+              "vacancies": 4
             },
             {
-              "nome": "Business Solutions",
-              "coordenadas": {
+              "name": "Business Solutions",
+              "coordinates": {
                 "latitude": 41.5385,
                 "longitude": -8.6792
               },
               "email": "contact@businesssolutions.com",
-              "telefone": "+351 321 765 432",
-              "vagas": 3
+              "phone": "+351 321 765 432",
+              "vacancies": 3
             }
           ]
         },
         {
-          "nome": "Licenciatura em Gestão de Recursos Humanos",
-          "empresas": [
+          "name": "Licenciatura em Gestão de Recursos Humanos",
+          "companies": [
             {
-              "nome": "HR Solutions",
-              "coordenadas": {
+              "name": "HR Solutions",
+              "coordinates": {
                 "latitude": 41.5442,
                 "longitude": -8.6669
               },
               "email": "info@hrsolutions.com",
-              "telefone": "+351 333 456 789",
-              "vagas": 2
+              "phone": "+351 333 456 789",
+              "vacancies": 2
             },
             {
-              "nome": "PeopleCare",
-              "coordenadas": {
+              "name": "PeopleCare",
+              "coordinates": {
                 "latitude": 41.5321,
                 "longitude": -8.6314
               },
               "email": "hr@peoplecare.com",
-              "telefone": "+351 222 543 210",
-              "vagas": 1
+              "phone": "+351 222 543 210",
+              "vacancies": 1
             }
           ]
         }
       ]
     },
     {
-      "nome": {
-        "sigla": "ESS",
-        "nome": "Escola Superior de Saúde"
+      "name": {
+        "abbreviation": "ESS",
+        "full_name": "Escola Superior de Saúde"
       },
-      "cursos": [
+      "courses": [
         {
-          "nome": "Licenciatura em Enfermagem",
-          "empresas": [
+          "name": "Licenciatura em Enfermagem",
+          "companies": [
             {
-              "nome": "Hospital de Viana",
-              "coordenadas": {
+              "name": "Hospital de Viana",
+              "coordinates": {
                 "latitude": 41.6921,
                 "longitude": -8.8345
               },
               "email": "enfermagem@hospitalviana.com",
-              "telefone": "+351 258 123 456",
-              "vagas": 5
+              "phone": "+351 258 123 456",
+              "vacancies": 5
             },
             {
-              "nome": "Clínica São João",
-              "coordenadas": {
+              "name": "Clínica São João",
+              "coordinates": {
                 "latitude": 41.6847,
                 "longitude": -8.8263
               },
               "email": "contacto@clinicasaojoao.com",
-              "telefone": "+351 258 987 654",
-              "vagas": 2
+              "phone": "+351 258 987 654",
+              "vacancies": 2
             }
           ]
         },
         {
-          "nome": "Licenciatura em Técnicas de Radiologia",
-          "empresas": [
+          "name": "Licenciatura em Técnicas de Radiologia",
+          "companies": [
             {
-              "nome": "Radiologia Viana",
-              "coordenadas": {
+              "name": "Radiologia Viana",
+              "coordinates": {
                 "latitude": 41.6794,
                 "longitude": -8.8301
               },
               "email": "info@radiologiaviana.com",
-              "telefone": "+351 258 345 678",
-              "vagas": 3
+              "phone": "+351 258 345 678",
+              "vacancies": 3
             },
             {
-              "nome": "Imagens Médicas",
-              "coordenadas": {
+              "name": "Imagens Médicas",
+              "coordinates": {
                 "latitude": 41.6673,
                 "longitude": -8.8214
               },
               "email": "contact@imagensmedicas.com",
-              "telefone": "+351 258 567 890",
-              "vagas": 2
+              "phone": "+351 258 567 890",
+              "vacancies": 2
             }
           ]
         },
         {
-          "nome": "Licenciatura em Fisioterapia",
-          "empresas": [
+          "name": "Licenciatura em Fisioterapia",
+          "companies": [
             {
-              "nome": "Clínica Fisioterapia Viana",
-              "coordenadas": {
+              "name": "Clínica Fisioterapia Viana",
+              "coordinates": {
                 "latitude": 41.6900,
                 "longitude": -8.8356
               },
               "email": "info@fisioviana.com",
-              "telefone": "+351 258 456 789",
-              "vagas": 3
+              "phone": "+351 258 456 789",
+              "vacancies": 3
             },
             {
-              "nome": "PhysioCare",
-              "coordenadas": {
+              "name": "PhysioCare",
+              "coordinates": {
                 "latitude": 41.6823,
                 "longitude": -8.8321
               },
               "email": "contact@physiocare.com",
-              "telefone": "+351 258 321 654",
-              "vagas": 2
+              "phone": "+351 258 321 654",
+              "vacancies": 2
             }
           ]
         }
       ]
     },
     {
-      "nome": {
-        "sigla": "ESA",
-        "nome": "Escola Superior de Artes e Design"
+      "name": {
+        "abbreviation": "ESA",
+        "full_name": "Escola Superior de Artes e Design"
       },
-      "cursos": [
+      "courses": [
         {
-          "nome": "Licenciatura em Design de Comunicação",
-          "empresas": [
+          "name": "Licenciatura em Design de Comunicação",
+          "companies": [
             {
-              "nome": "DesignStudio",
-              "coordenadas": {
+              "name": "DesignStudio",
+              "coordinates": {
                 "latitude": 41.5398,
                 "longitude": -8.6171
               },
               "email": "info@designstudio.com",
-              "telefone": "+351 234 567 890",
-              "vagas": 3
+              "phone": "+351 234 567 890",
+              "vacancies": 3
             },
             {
-              "nome": "Creative Lab",
-              "coordenadas": {
+              "name": "Creative Lab",
+              "coordinates": {
                 "latitude": 41.5452,
                 "longitude": -8.6200
               },
               "email": "contact@creativelab.com",
-              "telefone": "+351 321 765 432",
-              "vagas": 2
+              "phone": "+351 321 765 432",
+              "vacancies": 2
             }
           ]
         },
         {
-          "nome": "Licenciatura em Design de Produto",
-          "empresas": [
+          "name": "Licenciatura em Design de Produto",
+          "companies": [
             {
-              "nome": "ProductDesign Inc.",
-              "coordenadas": {
+              "name": "ProductDesign Inc.",
+              "coordinates": {
                 "latitude": 41.5421,
                 "longitude": -8.6244
               },
               "email": "contact@productdesign.com",
-              "telefone": "+351 333 444 555",
-              "vagas": 4
+              "phone": "+351 333 444 555",
+              "vacancies": 4
             },
             {
-              "nome": "InnoDesign",
-              "coordenadas": {
+              "name": "InnoDesign",
+              "coordinates": {
                 "latitude": 41.5465,
                 "longitude": -8.6187
               },
               "email": "info@innodesign.com",
-              "telefone": "+351 444 555 666",
-              "vagas": 3
+              "phone": "+351 444 555 666",
+              "vacancies": 3
             }
           ]
         }
