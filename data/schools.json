@@ -1,7 +1,10 @@
 {
   "escolas": [
     {
-      "nome": "Escola Superior de Tecnologia e Gestão (ESTG)",
+      "nome": {
+        "sigla": "ESTG",
+        "nome": "Escola Superior de Tecnologia e Gestão"
+      },
       "cursos": [
         {
           "nome": "Licenciatura em Informática",
@@ -81,7 +84,10 @@
       ]
     },
     {
-      "nome": "Escola Superior de Saúde (ESS)",
+      "nome": {
+        "sigla": "ESS",
+        "nome": "Escola Superior de Saúde"
+      },
       "cursos": [
         {
           "nome": "Licenciatura em Enfermagem",
@@ -161,7 +167,10 @@
       ]
     },
     {
-      "nome": "Escola Superior de Artes e Design (ESA)",
+      "nome": {
+        "sigla": "ESA",
+        "nome": "Escola Superior de Artes e Design"
+      },
       "cursos": [
         {
           "nome": "Licenciatura em Design de Comunicação",
@@ -210,116 +219,6 @@
               "email": "info@innodesign.com",
               "telefone": "+351 444 555 666",
               "vagas": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Escola Superior de Turismo e Tecnologia de Viana do Castelo (ESTV)",
-      "cursos": [
-        {
-          "nome": "Licenciatura em Turismo",
-          "empresas": [
-            {
-              "nome": "Viana Tour",
-              "coordenadas": {
-                "latitude": 41.6905,
-                "longitude": -8.8304
-              },
-              "email": "contact@vianatour.com",
-              "telefone": "+351 258 654 321",
-              "vagas": 2
-            },
-            {
-              "nome": "Porto Turismo",
-              "coordenadas": {
-                "latitude": 41.1481,
-                "longitude": -8.6110
-              },
-              "email": "info@portoturismo.com",
-              "telefone": "+351 220 123 456",
-              "vagas": 3
-            }
-          ]
-        },
-        {
-          "nome": "Licenciatura em Gestão de Turismo",
-          "empresas": [
-            {
-              "nome": "Tourism&Events",
-              "coordenadas": {
-                "latitude": 41.5439,
-                "longitude": -8.6198
-              },
-              "email": "contact@tourismevents.com",
-              "telefone": "+351 258 321 654",
-              "vagas": 2
-            },
-            {
-              "nome": "Explore Viana",
-              "coordenadas": {
-                "latitude": 41.6822,
-                "longitude": -8.8350
-              },
-              "email": "info@exploreviana.com",
-              "telefone": "+351 258 789 123",
-              "vagas": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nome": "Escola Superior de Educação (ESE)",
-      "cursos": [
-        {
-          "nome": "Licenciatura em Educação Social",
-          "empresas": [
-            {
-              "nome": "SocialCare",
-              "coordenadas": {
-                "latitude": 41.5360,
-                "longitude": -8.6600
-              },
-              "email": "contact@socialcare.com",
-              "telefone": "+351 258 234 567",
-              "vagas": 2
-            },
-            {
-              "nome": "EducaVida",
-              "coordenadas": {
-                "latitude": 41.5388,
-                "longitude": -8.6625
-              },
-              "email": "info@educavida.com",
-              "telefone": "+351 258 876 543",
-              "vagas": 1
-            }
-          ]
-        },
-        {
-          "nome": "Licenciatura em Educação Básica",
-          "empresas": [
-            {
-              "nome": "Escola Secundária de Viana",
-              "coordenadas": {
-                "latitude": 41.6880,
-                "longitude": -8.8240
-              },
-              "email": "secretaria@esviana.com",
-              "telefone": "+351 258 912 345",
-              "vagas": 3
-            },
-            {
-              "nome": "Escola do Futuro",
-              "coordenadas": {
-                "latitude": 41.6825,
-                "longitude": -8.8320
-              },
-              "email": "contact@escoladofuturo.com",
-              "telefone": "+351 258 743 210",
-              "vagas": 2
             }
           ]
         }
