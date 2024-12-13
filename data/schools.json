@@ -7,27 +7,192 @@
       },
       "courses": [
         {
-          "name": "Licenciatura em Informática",
+          "name": "Licenciatura em Design de Ambientes",
           "companies": [
             {
-              "name": "TechSolutions",
-              "coordinates": {
-                "latitude": 41.5368,
-                "longitude": -8.6615
-              },
-              "email": "contact@techsolutions.com",
-              "phone": "+351 123 456 789",
+              "name": "Design Studio",
+              "email": "contact@designstudio.com",
+              "phone": "+351 234 567 890",
+              "coordinates": [41.5200, -8.6500],
               "vacancies": 3
             },
             {
-              "name": "DevHub",
-              "coordinates": {
-                "latitude": 41.5457,
-                "longitude": -8.6223
-              },
-              "email": "info@devhub.com",
-              "phone": "+351 987 654 321",
+              "name": "Ambient Design",
+              "email": "info@ambientdesign.com",
+              "phone": "+351 234 234 567",
+              "coordinates": [41.5300, -8.6400],
+              "vacancies": 4
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Design do Produto",
+          "companies": [
+            {
+              "name": "ProductDesign Inc.",
+              "email": "contact@productdesign.com",
+              "phone": "+351 333 444 555",
+              "coordinates": [41.5400, -8.6200],
               "vacancies": 2
+            },
+            {
+              "name": "InnoDesign",
+              "email": "info@innodesign.com",
+              "phone": "+351 444 555 666",
+              "coordinates": [41.5450, -8.6250],
+              "vacancies": 3
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Engenharia Alimentar",
+          "companies": [
+            {
+              "name": "FoodTech Solutions",
+              "email": "info@foodtech.com",
+              "phone": "+351 555 666 777",
+              "coordinates": [41.5500, -8.6100],
+              "vacancies": 3
+            },
+            {
+              "name": "Gastronomy Hub",
+              "email": "contact@gastronomyhub.com",
+              "phone": "+351 666 777 888",
+              "coordinates": [41.5400, -8.6050],
+              "vacancies": 2
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Engenharia Civil e do Ambiente",
+          "companies": [
+            {
+              "name": "CivilTech",
+              "email": "contact@civiltech.com",
+              "phone": "+351 777 888 999",
+              "coordinates": [41.5300, -8.6000],
+              "vacancies": 4
+            },
+            {
+              "name": "GreenBuild",
+              "email": "info@greenbuild.com",
+              "phone": "+351 888 999 000",
+              "coordinates": [41.5200, -8.6100],
+              "vacancies": 3
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Engenharia da Computação Gráfica e Multimédia",
+          "companies": [
+            {
+              "name": "PixelWorks",
+              "email": "contact@pixelworks.com",
+              "phone": "+351 777 333 444",
+              "coordinates": [41.5400, -8.6250],
+              "vacancies": 3
+            },
+            {
+              "name": "Digital Creatives",
+              "email": "info@digitalcreatives.com",
+              "phone": "+351 555 444 333",
+              "coordinates": [41.5350, -8.6300],
+              "vacancies": 2
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Engenharia de Redes e Sistemas de Computadores",
+          "companies": [
+            {
+              "name": "Network Solutions",
+              "email": "support@networksolutions.com",
+              "phone": "+351 333 777 666",
+              "coordinates": [41.5500, -8.6500],
+              "vacancies": 4
+            },
+            {
+              "name": "TechNet",
+              "email": "contact@technet.com",
+              "phone": "+351 444 555 666",
+              "coordinates": [41.5400, -8.6450],
+              "vacancies": 3
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Engenharia Informática",
+          "companies": [
+            {
+              "name": "CodeLab",
+              "email": "info@codelab.com",
+              "phone": "+351 222 333 444",
+              "coordinates": [41.5300, -8.6600],
+              "vacancies": 4
+            },
+            {
+              "name": "TechWorks",
+              "email": "contact@techworks.com",
+              "phone": "+351 555 666 777",
+              "coordinates": [41.5400, -8.6650],
+              "vacancies": 3
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Engenharia Mecânica",
+          "companies": [
+            {
+              "name": "MechDesign",
+              "email": "info@mechdesign.com",
+              "phone": "+351 444 555 666",
+              "coordinates": [41.5300, -8.6550],
+              "vacancies": 2
+            },
+            {
+              "name": "Mechanic Hub",
+              "email": "contact@mechanichub.com",
+              "phone": "+351 666 777 888",
+              "coordinates": [41.5400, -8.6400],
+              "vacancies": 3
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Engenharia Mecatrónica",
+          "companies": [
+            {
+              "name": "Mechatronix",
+              "email": "info@mechatronix.com",
+              "phone": "+351 555 444 333",
+              "coordinates": [41.5200, -8.6350],
+              "vacancies": 3
+            },
+            {
+              "name": "AutoTech Solutions",
+              "email": "contact@autotechsolutions.com",
+              "phone": "+351 444 333 222",
+              "coordinates": [41.5150, -8.6250],
+              "vacancies": 2
+            }
+          ]
+        },
+        {
+          "name": "Licenciatura em Gastronomia e Artes Culinárias",
+          "companies": [
+            {
+              "name": "Culinary Arts",
+              "email": "info@culinaryarts.com",
+              "phone": "+351 333 444 555",
+              "coordinates": [41.5350, -8.6600],
+              "vacancies": 3
+            },
+            {
+              "name": "GastroMaster",
+              "email": "contact@gastromaster.com",
+              "phone": "+351 222 333 444",
+              "coordinates": [41.5250, -8.6500],
+              "vacancies": 4
             }
           ]
         },
@@ -36,188 +201,35 @@
           "companies": [
             {
               "name": "Global Business Corp",
-              "coordinates": {
-                "latitude": 41.5303,
-                "longitude": -8.6612
-              },
               "email": "hr@globalbusiness.com",
               "phone": "+351 234 567 890",
+              "coordinates": [41.5303, -8.6612],
               "vacancies": 4
             },
             {
               "name": "Business Solutions",
-              "coordinates": {
-                "latitude": 41.5385,
-                "longitude": -8.6792
-              },
               "email": "contact@businesssolutions.com",
               "phone": "+351 321 765 432",
+              "coordinates": [41.5385, -8.6792],
               "vacancies": 3
             }
           ]
         },
         {
-          "name": "Licenciatura em Gestão de Recursos Humanos",
+          "name": "Licenciatura em Turismo",
           "companies": [
             {
-              "name": "HR Solutions",
-              "coordinates": {
-                "latitude": 41.5442,
-                "longitude": -8.6669
-              },
-              "email": "info@hrsolutions.com",
-              "phone": "+351 333 456 789",
-              "vacancies": 2
-            },
-            {
-              "name": "PeopleCare",
-              "coordinates": {
-                "latitude": 41.5321,
-                "longitude": -8.6314
-              },
-              "email": "hr@peoplecare.com",
-              "phone": "+351 222 543 210",
-              "vacancies": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": {
-        "abbreviation": "ESS",
-        "full_name": "Escola Superior de Saúde"
-      },
-      "courses": [
-        {
-          "name": "Licenciatura em Enfermagem",
-          "companies": [
-            {
-              "name": "Hospital de Viana",
-              "coordinates": {
-                "latitude": 41.6921,
-                "longitude": -8.8345
-              },
-              "email": "enfermagem@hospitalviana.com",
-              "phone": "+351 258 123 456",
-              "vacancies": 5
-            },
-            {
-              "name": "Clínica São João",
-              "coordinates": {
-                "latitude": 41.6847,
-                "longitude": -8.8263
-              },
-              "email": "contacto@clinicasaojoao.com",
-              "phone": "+351 258 987 654",
-              "vacancies": 2
-            }
-          ]
-        },
-        {
-          "name": "Licenciatura em Técnicas de Radiologia",
-          "companies": [
-            {
-              "name": "Radiologia Viana",
-              "coordinates": {
-                "latitude": 41.6794,
-                "longitude": -8.8301
-              },
-              "email": "info@radiologiaviana.com",
-              "phone": "+351 258 345 678",
-              "vacancies": 3
-            },
-            {
-              "name": "Imagens Médicas",
-              "coordinates": {
-                "latitude": 41.6673,
-                "longitude": -8.8214
-              },
-              "email": "contact@imagensmedicas.com",
-              "phone": "+351 258 567 890",
-              "vacancies": 2
-            }
-          ]
-        },
-        {
-          "name": "Licenciatura em Fisioterapia",
-          "companies": [
-            {
-              "name": "Clínica Fisioterapia Viana",
-              "coordinates": {
-                "latitude": 41.6900,
-                "longitude": -8.8356
-              },
-              "email": "info@fisioviana.com",
-              "phone": "+351 258 456 789",
-              "vacancies": 3
-            },
-            {
-              "name": "PhysioCare",
-              "coordinates": {
-                "latitude": 41.6823,
-                "longitude": -8.8321
-              },
-              "email": "contact@physiocare.com",
-              "phone": "+351 258 321 654",
-              "vacancies": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": {
-        "abbreviation": "ESA",
-        "full_name": "Escola Superior de Artes e Design"
-      },
-      "courses": [
-        {
-          "name": "Licenciatura em Design de Comunicação",
-          "companies": [
-            {
-              "name": "DesignStudio",
-              "coordinates": {
-                "latitude": 41.5398,
-                "longitude": -8.6171
-              },
-              "email": "info@designstudio.com",
+              "name": "Tourism Ventures",
+              "email": "info@tourismventures.com",
               "phone": "+351 234 567 890",
-              "vacancies": 3
-            },
-            {
-              "name": "Creative Lab",
-              "coordinates": {
-                "latitude": 41.5452,
-                "longitude": -8.6200
-              },
-              "email": "contact@creativelab.com",
-              "phone": "+351 321 765 432",
+              "coordinates": [41.5200, -8.6300],
               "vacancies": 2
-            }
-          ]
-        },
-        {
-          "name": "Licenciatura em Design de Produto",
-          "companies": [
-            {
-              "name": "ProductDesign Inc.",
-              "coordinates": {
-                "latitude": 41.5421,
-                "longitude": -8.6244
-              },
-              "email": "contact@productdesign.com",
-              "phone": "+351 333 444 555",
-              "vacancies": 4
             },
             {
-              "name": "InnoDesign",
-              "coordinates": {
-                "latitude": 41.5465,
-                "longitude": -8.6187
-              },
-              "email": "info@innodesign.com",
-              "phone": "+351 444 555 666",
+              "name": "TravelMore",
+              "email": "contact@travelmore.com",
+              "phone": "+351 222 333 444",
+              "coordinates": [41.5300, -8.6350],
               "vacancies": 3
             }
           ]
